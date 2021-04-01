@@ -58,17 +58,17 @@
     "url": "https://hellogithub.com/",
     "icon": "https://favicons.githubusercontent.com/hellogithub.com",
     "slug": "hello-git-hub",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1558,
-    "timeDay": 1351,
-    "timeWeek": 1542,
-    "timeMonth": 1541,
-    "timeYear": 1558,
+    "time": 1561,
+    "timeDay": 1635,
+    "timeWeek": 1580,
+    "timeMonth": 1552,
+    "timeYear": 1561,
     "dailyMinutesDown": {}
   }
 ]
